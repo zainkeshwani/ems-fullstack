@@ -1,1 +1,0 @@
-Employee Management System made to practice SpringBoot and React.js as well as MYSQL database
